@@ -1,0 +1,13 @@
+C:\Users\ASUS\Documents\Latihan C#\bin\Debug\netcoreapp3.1\Latihan C#.exe
+C:\Users\ASUS\Documents\Latihan C#\bin\Debug\netcoreapp3.1\Latihan C#.deps.json
+C:\Users\ASUS\Documents\Latihan C#\bin\Debug\netcoreapp3.1\Latihan C#.runtimeconfig.json
+C:\Users\ASUS\Documents\Latihan C#\bin\Debug\netcoreapp3.1\Latihan C#.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\Latihan C#\bin\Debug\netcoreapp3.1\Latihan C#.dll
+C:\Users\ASUS\Documents\Latihan C#\bin\Debug\netcoreapp3.1\Latihan C#.pdb
+C:\Users\ASUS\Documents\Latihan C#\obj\Debug\netcoreapp3.1\Latihan C#.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Latihan C#\obj\Debug\netcoreapp3.1\Latihan C#.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Latihan C#\obj\Debug\netcoreapp3.1\Latihan C#.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Latihan C#\obj\Debug\netcoreapp3.1\Latihan C#.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Latihan C#\obj\Debug\netcoreapp3.1\Latihan C#.dll
+C:\Users\ASUS\Documents\Latihan C#\obj\Debug\netcoreapp3.1\Latihan C#.pdb
+C:\Users\ASUS\Documents\Latihan C#\obj\Debug\netcoreapp3.1\Latihan C#.genruntimeconfig.cache
