@@ -1,0 +1,13 @@
+C:\Ngoding\Latihan C#\latihan_queue_stack\obj\Debug\netcoreapp3.1\latihan_queue_stack.csprojAssemblyReference.cache
+C:\Ngoding\Latihan C#\latihan_queue_stack\obj\Debug\netcoreapp3.1\latihan_queue_stack.AssemblyInfoInputs.cache
+C:\Ngoding\Latihan C#\latihan_queue_stack\obj\Debug\netcoreapp3.1\latihan_queue_stack.AssemblyInfo.cs
+C:\Ngoding\Latihan C#\latihan_queue_stack\obj\Debug\netcoreapp3.1\latihan_queue_stack.csproj.CoreCompileInputs.cache
+C:\Ngoding\Latihan C#\latihan_queue_stack\bin\Debug\netcoreapp3.1\latihan_queue_stack.exe
+C:\Ngoding\Latihan C#\latihan_queue_stack\bin\Debug\netcoreapp3.1\latihan_queue_stack.deps.json
+C:\Ngoding\Latihan C#\latihan_queue_stack\bin\Debug\netcoreapp3.1\latihan_queue_stack.runtimeconfig.json
+C:\Ngoding\Latihan C#\latihan_queue_stack\bin\Debug\netcoreapp3.1\latihan_queue_stack.runtimeconfig.dev.json
+C:\Ngoding\Latihan C#\latihan_queue_stack\bin\Debug\netcoreapp3.1\latihan_queue_stack.dll
+C:\Ngoding\Latihan C#\latihan_queue_stack\bin\Debug\netcoreapp3.1\latihan_queue_stack.pdb
+C:\Ngoding\Latihan C#\latihan_queue_stack\obj\Debug\netcoreapp3.1\latihan_queue_stack.dll
+C:\Ngoding\Latihan C#\latihan_queue_stack\obj\Debug\netcoreapp3.1\latihan_queue_stack.pdb
+C:\Ngoding\Latihan C#\latihan_queue_stack\obj\Debug\netcoreapp3.1\latihan_queue_stack.genruntimeconfig.cache
